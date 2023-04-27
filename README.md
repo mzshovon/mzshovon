@@ -11,11 +11,13 @@
 
 - 👯 I’m looking to collaborate on **odoo ERP**
 
-- 🤝 I’m looking for help with **Exclusive Job Preparation**
+- 🤝 I worked as a backend developer in **Eb Selfcare** project from **Banglalink**
+
+- 🤝 I worked with api team of **Exclusive Job Preparation**
 
 - 👨‍💻 All of my projects are available at [mzshovon.github.io](mzshovon.github.io)
 
-- 📝 I regularly write articles on [https://dev.to/mzshovon/dsa-vs-generic-system-dev-3fpo](https://dev.to/mzshovon/dsa-vs-generic-system-dev-3fpo)
+- 📝 I regularly write articles on [https://dev.to/mzshovon](https://dev.to/mzshovon)
 
 - 💬 Ask me about **PHP, Laravel, JS, React, Python**
 
