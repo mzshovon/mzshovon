@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzshovon" alt="mzshovon" /></a> </p>
 
-- 🔭 I’m currently working in **Brain station 23**
+- 🔭 I’m currently working as **Software Enginner Level-3** in **Brain station 23**
 
-- 🌱 I’m currently learning **Django, Express**
+- 🌱 I’m currently learning **Kafka, kubernates**
 
-- 👯 I’m looking to collaborate on **odoo ERP**
+- 👯 I’m looking to collaborate on **SaaS Product**
 
-- 🤝 I worked as a backend developer in **Eb Selfcare** project from **Banglalink**
+- 🤝 I worked as a backend developer in **CFL(Closed Feedback Loop) and Corporate Care** project from **Banglalink**
 
-- 🤝 I worked with api team of **Exclusive Job Preparation**
+- 🤝 I build my own Ecommerce Plartform **Ecommart BD**
 
 - 👨‍💻 All of my projects are available at [mzshovon.github.io](mzshovon.github.io)
 
-- 📝 I regularly write articles on [https://dev.to/mzshovon](https://dev.to/mzshovon)
+- 📝 I regularly write articles on [https://medium.com/@zaman.monir20188](https://medium.com/@zaman.monir20188)
 
-- 💬 Ask me about **PHP, Laravel, JS, React, Python**
+- 💬 Ask me about **PHP, Laravel, Node, Docker, Python**
 
 - 📫 How to reach me **mohammad.moniruzzaman@brainstation-23.com**
 
