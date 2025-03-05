@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mzshovon" alt="mzshovon" /></a> </p>
 
-- 🔭 I’m currently working as **Software Enginner Level-3** in **Brain station 23**
+- 🔭 I’m currently working as **Senior Software Enginner** in **Brain station 23**
 
 - 🌱 I’m currently learning **Kafka, kubernates**
 
